@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16px"
+   height="16px"
+   id="svg2982"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="closeTabHighlight.svg"
+   inkscape:export-filename="C:\Users\Kari Hormi\Desktop\Projects\Jabdah\closeTabH.png"
+   inkscape:export-xdpi="45"
+   inkscape:export-ydpi="45">
+  <defs
+     id="defs2984" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="31.392433"
+     inkscape:cx="9.9168154"
+     inkscape:cy="10.067148"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:grid-bbox="true"
+     inkscape:document-units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1138"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata2987">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <rect
+       style="fill:#db0000;fill-opacity:1;stroke:#db0000;stroke-width:0.11608511;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3772"
+       width="18.855276"
+       height="18.859436"
+       x="-1.5512084"
+       y="-1.7788953"
+       ry="4"
+       rx="4"
+       inkscape:export-xdpi="47.446457"
+       inkscape:export-ydpi="47.446457"
+       inkscape:export-filename="C:\Users\Kari Hormi\Desktop\Projects\Jabdah\closeTabA.png" />
+    <path
+       style="fill:none;stroke:#d2d2d2;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
+       d="M 1.4866337,14.513366 14.483416,1.4715345"
+       id="path3752"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="47.446457"
+       inkscape:export-ydpi="47.446457"
+       inkscape:export-filename="C:\Users\Kari Hormi\Desktop\Projects\Jabdah\closeTabA.png" />
+    <path
+       style="fill:none;stroke:#d2d2d2;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="M 14.472153,14.502104 1.4753712,1.460272"
+       id="path3752-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\Kari Hormi\Desktop\Projects\Jabdah\closeTabA.png"
+       inkscape:export-xdpi="47.446457"
+       inkscape:export-ydpi="47.446457" />
+  </g>
+</svg>

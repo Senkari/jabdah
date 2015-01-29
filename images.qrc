@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/logos">
+        <file>jubduh.png</file>
+        <file>Qt-logo.svg</file>
+        <file>TagLib_logo.png</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file>pause.svg</file>
+        <file>play.svg</file>
+        <file>stop.svg</file>
+        <file>next.svg</file>
+        <file>previous.svg</file>
+        <file>sound.svg</file>
+        <file>mute.svg</file>
+        <file>jubduh.png</file>
+        <file>jabdah_paused.png</file>
+        <file>jabdah_playing.png</file>
+        <file>jabdah_stopped.png</file>
+        <file>movedown.svg</file>
+        <file>moveup.svg</file>
+        <file>jabdahLogo.svg</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>CD-R-disc.svg</file>
+    </qresource>
+</RCC>
